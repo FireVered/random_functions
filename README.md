@@ -10,7 +10,7 @@ a|&   --   b|&   --   c|&   --   d|&   --   d|&   --   e|&
 
 
 
-#How to use
+# How to use
 
 first, ceate a file called ids.ids to store the id of each function.
 Then, use gen_id() to generate a random id of a function.
