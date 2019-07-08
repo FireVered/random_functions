@@ -16,7 +16,7 @@ Then, use gen_id.py to generate a list of random ids seperated by ';'.
 
 OR
 
-use the gen_id() function in fun_gen.py to generte a random id.
+use the gen_id() function in fun_gen_2.py to generte a random id.
 
 If u want to read use an id and 5 variables to run a function, use func() and use the id as a list for the first argument, and the 5 variables in a list for the 2nd argument.
 
