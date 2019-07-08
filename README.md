@@ -20,5 +20,9 @@ use the gen_id() function in fun_gen.py to generte a random id.
 
 If u want to read use an id and 5 variables to run a function, use func() and use the id as a list for the first argument, and the 5 variables in a list for the 2nd argument.
 
+# I got 'number too big' / 'number to small' error 
+There are probably a few numbers in the power of a realy big number
+ook for '4' in the last 9 integers in the witch will hint about powers and then look for big numbers like:
+10000034 in the input or the 5 floats .
 
 # if you use this be respectful and give credit
