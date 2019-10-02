@@ -99,6 +99,3 @@ def func(lst,abcde):
                     num **= abcde[i]**lst[i]
 
     return(num)
-
-
-print(func([-35.609044339104734, 470.2526268610348, 0, 1, 2],[2,3]))
