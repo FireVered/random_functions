@@ -25,4 +25,5 @@ There are probably a few numbers in the power of a realy big number
 ook for '4' in the last 9 integers in the witch will hint about powers and then look for big numbers like:
 10000034 in the input or the 5 floats .
 
-# if you use this be respectful and give credit
+
+# if you use this please be respectful and give credit / send link to this repository
