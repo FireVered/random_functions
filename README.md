@@ -1,4 +1,4 @@
-# How it works?
+# How does it work?
 it uses random numbers to represent a mathematical operetion and other numbers that will be in use in the function.
 The random numbers are written in the id, wich is a string, with 14 values seperated by ',' so it would be easy to turn them into a list that the proggram can use to construct the function and output the value.
 
