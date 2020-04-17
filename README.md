@@ -30,7 +30,7 @@ ook for '4' in the last 9 integers in the witch will hint about powers and then 
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 
 <b> if you use this please be respectful and give credit / send link to this repository </b>
