@@ -1,14 +1,3 @@
-# How does it work?
-it uses random numbers to represent a mathematical operetion and other numbers that will be in use in the function.
-The random numbers are written in the id, wich is a string, with 14 values seperated by ',' so it would be easy to turn them into a list that the proggram can use to construct the function and output the value.
-
-structure of a function (| or --  are representing a random operetion, & represents a random number, a-b-c-d-e are known and are the input) :
-
-((((((a|&)   --   b|&)   --   c|&)   --   d|&)   --   d|&)   --   e|&)
-
-
-
-
 # How to use
 
 first,  ceate a file called ids.ids to store the id of each function.
