@@ -1,5 +1,0 @@
-#2.10.19 (dd/mm/yy)
-===================
-Just created this devlog, saw that the order of operations doesnt apply, gonna fix it.
-
-
