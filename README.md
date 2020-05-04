@@ -11,7 +11,7 @@ If u want to read use an id and 5 variables to run a function, use func() and us
 
 # I got 'number too big' / 'number to small' error 
 There are probably a few numbers in the power of a realy big number
-ook for '4' in the last 9 integers in the witch will hint about powers and then look for big numbers like:
+ook for '4' in the last 9 integers in the which will hint about powers and then look for big numbers like:
 10000034 in the input or the 5 floats .
 
 
